@@ -1,0 +1,13 @@
+DYN365_ORGURL='https://ewbcgtsa2qa.crm.dynamics.com/'
+
+DYN365_ORGURLWithNewtwotk='https://mlakshmanraj:tes@Abc@ewbcgtsa2uat.crm.dynamics.com/'
+
+DYN365_USERNAME='muthu.lakshmanraj@eastwestbank.com'
+
+DYN365_PASSWORD=REDCATED by Infosec
+
+CSH_APPID='f4b1b87b-185a-4641-9ada-876d9c315744'
+
+PROFILEID='sammyli77166'
+
+CUSTOMERID='2217'
