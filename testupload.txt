@@ -4,7 +4,7 @@ DYN365_ORGURLWithNewtwotk='https://mlakshmanraj:tes@Abc@ewbcgtsa2uat.crm.dynamic
 
 DYN365_USERNAME='muthu.lakshmanraj@eastwestbank.com'
 
-DYN365_PASSWORD=REDCATED by Infosec
+DYN365_PASSWORD=REDACTED by Infosec
 
 CSH_APPID='f4b1b87b-185a-4641-9ada-876d9c315744'
 
